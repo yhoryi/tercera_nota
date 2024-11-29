@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        //Jhon Hamilton Gómez Molina 192436
      Scanner sc= new Scanner(System.in);
      System.out.println("Ingrese el primer numero");
      int numero1= sc.nextInt();
